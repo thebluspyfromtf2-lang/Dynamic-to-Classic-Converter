@@ -7,4 +7,5 @@ The script gets put in ServerScriptService and should replace any players head o
 
 
 This unfortunately for you isnt free and uses a gamepass as a "key" to function there isnt a bypass
+I spent 5-6 hours taking the time to find and add over 800 Item ID's for this to work
 https://www.roblox.com/game-pass/1773726941/Dynamic-to-Classic
